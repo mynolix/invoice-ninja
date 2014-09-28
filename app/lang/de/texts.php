@@ -335,7 +335,7 @@ return array(
   'updated_product' => 'Produkt erfolgreich aktualisiert',
   'created_product' => 'Produkt erfolgreich erstellt',
   'archived_product' => 'Produkt erfolgreich archiviert',
-  'product_library' => 'Produktbibliothek',  
+  'product_library' => 'Artikelstamm',  
 
   'chart_builder' => 'Diagrammersteller',
   'ninja_email_footer' => 'Nutze :site um Kunden eine Rechnung zu stellen und online bezahlt zu werden, kostenlos!',
