@@ -22,7 +22,7 @@
 			  )
 			, ['id'=>'normalDropDown'])->split(); }}
 
-			{{ DropdownButton::primary('Create Invoice', Navigation::links($actionLinks), ['id'=>'primaryDropDown'])->split(); }}
+			{{ DropdownButton::primary(trans('texts.new_invoice'), Navigation::links($actionLinks), ['id'=>'primaryDropDown'])->split(); }}
 	    {{ Former::close() }}		
 
 	</div>
